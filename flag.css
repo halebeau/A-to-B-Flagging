@@ -1,0 +1,20 @@
+body {
+  font-family: sans-serif;
+  height: 97vh;
+}
+.blue-class {
+  background-color: blue;
+  height: 150px;
+  width: 100%;
+}
+.red-class {
+  background-color: red;
+  height: 150px;
+  width: 100%;
+}
+.deeppink-class {
+  background-color: deeppink;
+  height: 150px;
+  width: 100%;
+}
+
